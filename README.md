@@ -14,3 +14,4 @@ You will need to have the latest version of the AWS CLI and maven installed befo
 
 Tips: 
 * Ensure path variables are setup 
+* Chose Ubuntu 20.04 for Linux
