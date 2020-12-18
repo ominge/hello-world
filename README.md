@@ -1,5 +1,5 @@
 # Environment Setup
-Steps for setting up Java Microservice environment
+Steps for setting up Java Microservice dev environment on Win10
 
 https://github.com/aws-samples/amazon-ecs-java-microservices
 
