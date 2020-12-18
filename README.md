@@ -1,4 +1,7 @@
-# hello-world
-Space for learning
+# Environment Setup
+Steps for setting up Java Microservice environment
 
-Exploring areas of the universe where no man/woman has gone before!
+https://github.com/aws-samples/amazon-ecs-java-microservices
+
+Tips: 
+* Ensure path variables are setup 
